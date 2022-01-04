@@ -51,8 +51,9 @@
 
 #theme {
         height: auto ;
-        max-width:90px ;
+        max-width:80px ;
         padding: 8px 4px ;
         font-size: 20px ;
         background-color: red ;
+        color:white;
          }
