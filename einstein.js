@@ -3,7 +3,7 @@ function myFunc() {
         }
 
 function changeclassstyle() {
-  var c = document.getElementsByClassName("buttons");
+  var c = document.getElementsByClassName("Dabba");
   for (var i=0; i<c.length; i++) {
     c[i].style.fill = "red";
   }
