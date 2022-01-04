@@ -1,6 +1,4 @@
-function myFunc() {
-        document.body.style.Color="lightgreen";
-        }
+
 
 function myFunc() {
   var c = document.getElementsByClassName("Dabba");
