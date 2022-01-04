@@ -48,3 +48,10 @@
       max-width: 100px ;
       margin: 5vh auto 0 auto;
        }
+
+#theme {
+        height: auto ;
+        max-width:80px ;
+        padding: 8px 4px ;
+        font-size: 12px ;
+         }
