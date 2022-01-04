@@ -1,6 +1,6 @@
 
 
 function myFunc() {
- document.getElementsByClassName("Dabba").style.color:red;
+ document.getElementByClassName("Dabba").style.color:red;
   }
 }
