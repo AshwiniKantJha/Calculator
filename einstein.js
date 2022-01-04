@@ -1,4 +1,3 @@
 function myFunc() {
-        
-        document.body.style.backgroundColor="lightreen";
+        document.body.style.backgroundColor="lightgreen";
         }
