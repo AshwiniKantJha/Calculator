@@ -1,5 +1,4 @@
-function myFunc(vmro) {
-        document.getElementById(vmro);
+function myFunc() {
         document.body.style.Color="lightgreen";
         }
 
