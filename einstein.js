@@ -1,6 +1,6 @@
 
 
 function myFunc() {
-  var c = document.getElementsByClassName("Dabba").style.color:red;
+ document.getElementsByClassName("Dabba").style.color:red;
   }
 }
