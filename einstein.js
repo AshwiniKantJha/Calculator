@@ -1,5 +1,5 @@
 
 function myFunc() {
- document.getElementByClassName("Dabba").style.color:red;
+ document.body.style.color:black;
   }
 
