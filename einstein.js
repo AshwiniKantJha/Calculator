@@ -1,5 +1,5 @@
 
 function myFunc() {
- document.body.style.backgroundColor="black" , textColor="white";
+ document.body.style.backgroundColor="black";
   }
 
