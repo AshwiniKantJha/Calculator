@@ -1,10 +1,14 @@
 
-function myFunc() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
+const inputField = document.getElementById('input');
 
-let display = document.getElementById('screen');
 
-let buttons = Array.from(document.getElementsByClassName('btn'));
+const insertNum = num => inputField.textContent += num;
 
+
+const equalTo = () => (inputField.textContent) ? inputField.textContent = eval(inputField.textContent) : false;
+
+
+const eraseNum = () => inputField.textContent = inputField.textContent.substring(0, inputField.textContent.length - 1);
+
+
+const clearInput = () => inputField.textContent = '';
