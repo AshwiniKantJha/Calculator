@@ -81,14 +81,14 @@ body{
 
 .btn-operator {
 
-    background-color: #24d1d1;
-    color: #000000;
+    background-color: #128094;
+    color: #ffffff;
 }
 
 .btn-operator:hover {
-    background-color: #24d183 
+    background-color: rgb(52, 155, 196)
 }
 
 .equal{
-    background-color: #ff1414;
+    background-color: #e77c18;
 }
