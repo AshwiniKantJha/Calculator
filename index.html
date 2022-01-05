@@ -6,11 +6,12 @@
     </head>
 
  <body>
-       <section>
-           <div class="Dabba">
-               <div id="screen"> </div>
-         <div class="buttons">
-         
+       <div class="main-container">
+            <div class="calc-container">
+
+         <div id="input" class="">
+    </div>
+         <div id='buttons-container'>
           <button class="btn btn-operator " onclick="clearInput()"> C </button>
             <div class="btn btn-operator " onclick="insertNum()"> %  </div>
              <div class="btn btn-operator " onclick="insertNum('×')"> × </div>
@@ -31,7 +32,7 @@
              <div class="btn btn-num dot" onclick="insertNum(00)"> 00 </div>
              <div class="btn btn-num" onclick="insertNum('.')"> . </div>
                 <div id="equal" class="btn btn-operator equal " onclick="equalTo()"> = </div>
-     
+           </div>
               </div>
      
             </div>
@@ -39,7 +40,7 @@
           <script src="./einstein.js"> </script>
    
 
-        </section>
+        
 
             
    <br>
