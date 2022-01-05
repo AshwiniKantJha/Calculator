@@ -1,7 +1,8 @@
 
 function myFunc() {
- document.body.style.backgroundColor="black";
-  }
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
 
 let display = document.getElementById('screen');
 
